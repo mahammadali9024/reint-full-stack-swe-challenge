@@ -1,0 +1,4 @@
+# Used by Vercel's Python runtime for api/index.py (the Docker image uses backend/requirements.txt)
+fastapi==0.115.6
+pandas==2.2.3
+numpy==2.1.3
